@@ -5,9 +5,9 @@ from __future__ import nested_scopes, generators, division, absolute_import, wit
 """
     Name:       CodecsSample
     Author:     Andy Liu
-    Email :     anx.liu@intel.com
+    Email :     asiro@qq.com
     Created:    3/25/2015
-    Copyright:  Copyright ©Intel Corporation. All rights reserved.
+    Copyright:  All rights reserved.
     Licence:    This program is free software: you can redistribute it 
     and/or modify it under the terms of the GNU General Public License 
     as published by the Free Software Foundation, either version 3 of 
