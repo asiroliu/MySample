@@ -4,9 +4,9 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 """
     Name:       MD5Checksum
     Author:     Andy Liu
-    Email :     anx.liu@intel.com
+    Email :     asiro@qq.com
     Created:    3/24/2015
-    Copyright:  Copyright ©Intel Corporation. All rights reserved.
+    Copyright:  All rights reserved.
     Licence:    This program is free software: you can redistribute it 
     and/or modify it under the terms of the GNU General Public License 
     as published by the Free Software Foundation, either version 3 of 
