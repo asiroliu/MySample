@@ -5,7 +5,7 @@ from __future__ import nested_scopes, generators, division, absolute_import, wit
 """
     Name:       CodecsSample
     Author:     Andy Liu
-    Email :     asiro@qq.com
+    Email :     andy.liu.ud@hotmail.com
     Created:    3/25/2015
     Copyright:  All rights reserved.
     Licence:    This program is free software: you can redistribute it 
