@@ -4,7 +4,7 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 """
     Name:       MD5Checksum
     Author:     Andy Liu
-    Email :     asiro@qq.com
+    Email :     andy.liu.ud@hotmail.com
     Created:    3/24/2015
     Copyright:  All rights reserved.
     Licence:    This program is free software: you can redistribute it 
