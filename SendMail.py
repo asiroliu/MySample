@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 """
-    Name:       KitchenSink
+    Name:       SendMail
     Author:     Andy Liu
     Email :     andy.liu.ud@hotmail.com
     Created:    3/24/2015
