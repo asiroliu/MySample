@@ -4,11 +4,11 @@ about: Create a report to help us improve
 
 ---
 
-**Describe the bug**  
+**Describe The Bug**  
 A clear and concise description of what the bug is.
 
-**TXLE version**  
-TXLE version
+**TXLE Version**  
+`TXLE version`
 
 **To Reproduce**  
 Steps to reproduce the behavior:  
@@ -16,10 +16,10 @@ Steps to reproduce the behavior:
 2. xxx
 3. xxx
 
-**Expected result**  
+**Expected Result**  
 A clear and concise description of what you expected to happen.
 
-**Real result**  
+**Real Result**  
 A clear and concise description of what happened.
 
 **Logs**  
@@ -27,8 +27,8 @@ A clear and concise description of what happened.
 If applicable, add screenshots to help explain your problem.
 ```
 
-**configuration**  
-Show changed configuration
+**Configuration**  
+Show changed configuration.
 
 **Additional context**  
 Add any other context about the problem here.
