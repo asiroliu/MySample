@@ -24,7 +24,7 @@ A clear and concise description of what happened.
 
 **Logs**  
 ```
-If applicable, add screenshots to help explain your problem.
+If applicable, add logs to help explain your problem.
 ```
 
 **Configuration**  
